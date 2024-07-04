@@ -52,6 +52,10 @@ a single image and put that in a new slide that will processed better by odpmkd.
 slide in your  presentation, in case you want to make changes in the future, and keep the slide with the 
 single image visible.
 
+# We are working on CI
+
+We will set up a workflow to run automatic tests
+
 ## TODO
 - Slides with "a single big text" could be processed better (perhaps by using a bigger font, or using the text as the title).
 - Some redundancy might be eliminated in the resulting markdown file with a smarter parsing.
